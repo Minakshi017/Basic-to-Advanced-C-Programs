@@ -1,2 +1,3 @@
-# Basic-to-Advanced-C-Programs
-This repository is dedicated to providing solutions to a wide range of problems in C, from basic to advanced levels. 
+# C Programming Solutions
+
+Welcome to the C Programming Solutions repository! This repository contains a comprehensive collection of C programs that range from basic to advanced levels. Each program is designed to help you understand various concepts in C programming and improve your problem-solving skills.
