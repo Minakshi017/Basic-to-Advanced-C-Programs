@@ -1,8 +1,9 @@
-class Solution {
-  public:
-    long long seriesSum(int n) {
+
+    #include<stdio.h>
+
+    int main(){
         
-        int sum=0;
+        int sum=0, n;
         for(int i =1; i<=n; i++){
              sum += i;
         }
@@ -10,4 +11,3 @@ class Solution {
         return sum;
         // code here
     }
-};
