@@ -8,9 +8,9 @@ void main(){
 
     if(n > 0){
 
-    printf("/n %d is positive" ,n);
+    printf("\n %d is positive" ,n);
     }else{
-        printf("/n %d is negative" , n);
+        printf("\n %d is negative" , n);
     }
 
 

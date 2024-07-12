@@ -7,6 +7,6 @@ int main()
 
     area = 0.5 * breadth * hight;
 
-    printf("/n area of triangle %f", area);
+    printf("\n area of triangle %f", area);
    
 }

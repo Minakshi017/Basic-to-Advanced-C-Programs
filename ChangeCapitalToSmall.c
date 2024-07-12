@@ -4,7 +4,7 @@
 int main()
 {
     char ch;
-    printf("/n Enter any Capital Alphabet ");
+    printf("\n Enter any Capital Alphabet ");
     scanf("%[A-Z]", &ch);
 
     ch = ch + 32;

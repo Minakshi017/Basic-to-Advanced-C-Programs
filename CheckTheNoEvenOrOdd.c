@@ -9,6 +9,6 @@ void main()
 
     n % 2 == 0?
 
-    printf("/n %d is even", n):printf("/n %d is odd",n);
+    printf("\n %d is even", n):printf("\n %d is odd",n);
     return 0;
 }

@@ -7,6 +7,6 @@ void main(){
 
     f = 1.8 * c + 32;
 
-    printf("/n temp in fahrenheight is %f",f);
+    printf("\n temp in fahrenheight is %f",f);
     return 0;
 }

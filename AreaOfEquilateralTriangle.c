@@ -4,7 +4,7 @@
 
 int main(){
     float a, s;
-    printf("/n enter s");
+    printf("\n enter s");
     scanf("%f", &s);
 
     a = sqrt (3)/4 * s *s;
